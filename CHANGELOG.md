@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template (gramps-web-1). No change to the app.
+
 ## 26.11.2 (2026-11-16)
 
 - First release: Gramps Web 26.11.2 (Gramps Web API 3.25.3), `ghcr.io/gramps-project/grampsweb:26.11.2@sha256:80a1d75ca0f67f9203aecca60f7639312a2769fe0af45b34608b0add64f7c07f`.

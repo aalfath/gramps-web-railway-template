@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/gramps-web-1?utm_medium=integration&utm_source=button&utm_campaign=gramps-web)
+
 # Gramps Web on Railway
 
 A one-click Railway template for [Gramps Web](https://www.grampsweb.org/), the open-source web app for collaborative genealogy built on Gramps.
